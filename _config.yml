@@ -22,8 +22,8 @@ title: Pagina web de Javier
 email: jortizs07@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
       Esta es la descripcion de la pagina local de la actividad 2 realizada por Javier
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/actividad2" # the subpath of your site, e.g. /blog
+url: "https://javierortizsanchez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Javi10ortiz
 github_username:  Javi10ortiz
 
